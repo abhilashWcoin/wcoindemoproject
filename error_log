@@ -1,0 +1,2 @@
+[30-Jan-2018 12:42:39 UTC] PHP Warning:  include(news-sidebar.php): failed to open stream: No such file or directory in /home/cbank/public_html/wcoin/news-japanese-crypto.php on line 31
+[30-Jan-2018 12:42:39 UTC] PHP Warning:  include(): Failed opening 'news-sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/cbank/public_html/wcoin/news-japanese-crypto.php on line 31
