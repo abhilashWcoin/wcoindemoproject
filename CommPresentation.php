@@ -5,7 +5,7 @@
     </div>
 <section class="inner-block">
     <div class="row our-gold">
-       <div class="container">
+       <div class="container" class="sample">
            <div class="col-sm-3">
                <img src="images/presentation_3_com.jpg" class="img-responsive">
            </div>
